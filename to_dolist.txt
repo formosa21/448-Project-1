@@ -1,0 +1,4 @@
+possible new features:
+    -Alarm Clock
+    -Chronometer
+    -Progressive background change
